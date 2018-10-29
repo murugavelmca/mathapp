@@ -1,0 +1,5 @@
+spring.datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/muru?autoReconnect=true&useSSL=false&useUnicode=yes
+    username: root
+    password: purpose
