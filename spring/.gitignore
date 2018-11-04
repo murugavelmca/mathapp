@@ -24,6 +24,10 @@
 /nbdist/
 /.nb-gradle/
 
+### DSStore ###
+*.DS_Store
+/**/.DS_Store
+
 
 ### Angular UI ###
 /src/main/webapp/mathUI_angular/node_modules/
