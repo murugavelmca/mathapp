@@ -23,3 +23,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+
+### Angular UI ###
+/src/main/webapp/mathUI_angular/node_modules/
