@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/murugavelmca/mathapp#readme",
   "dependencies": {
-    "@angular-devkit/build-angular": "^0.10.4",
+    "@angular-devkit/build-angular": "^14.2.9",
     "@angular/cli": "^7.0.4",
     "@types/core-js": "^2.5.0"
   }
